@@ -15,7 +15,6 @@ The Sudoku Solver is a C# console application designed to solve Sudoku puzzles p
 ### Clone the Repository
 
 ```bash
-# Using WSL
 git clone <repository-url>
 cd SudokuSolver
 ```
